@@ -222,4 +222,13 @@ This workflow can be customized for your website, lead-generation system, CRM, s
 
 ---
 
-**Built with n8n ⚡**
+## 📸 Workflow Screenshots
+
+### Complete Workflow
+<img width="1335" height="616" alt="Complete Workflow" src="https://github.com/user-attachments/assets/81c99b17-b04d-459c-8450-c1e3d829c36a" />
+
+### Valid Lead Test
+<img width="878" height="437" alt="Valid Lead Test" src="https://github.com/user-attachments/assets/67806406-4e30-4939-a978-c9f6c90b8bea" />
+
+### Invalid Lead Test
+<img width="710" height="364" alt="Invalid Lead Test" src="https://github.com/user-attachments/assets/87cfc80d-5721-4eb1-9643-8e36f4294288" />
