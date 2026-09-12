@@ -175,7 +175,6 @@
       "id": "aa805763-3be2-4a1c-a224-af711b167ff5",
       "name": "Save Valid Lead",
       "retryOnFail": true
-            }
     },
     {
       "parameters": {
